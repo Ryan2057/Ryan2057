@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm Ryan, a passionate computer science student based in Chennai, India.
 
-🌱 I'm currently studying computer science and exploring various programming languages and technologies. I'm always eager to learn new things and passionate about problem-solving.
+🌱 I'm currently studying computer science and exploring various programming languages and technologies. I'm always eager to learn new things and passionate about cloud technologies☁️.
 
 🎓 I'm pursuing a degree in Computer Science at St.Joseph's Institute of Technology, where I'm building a strong foundation in software development and computer science principles.
 
