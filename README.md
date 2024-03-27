@@ -20,7 +20,7 @@
   - Docker
 
 - **Mobile App Development:**
-  - Android Studio (JAVA)
+  - Android Studio (Flutter)
 
 📫 You can reach me through brendaryan2005@gmail.com or connect with me on Linkedin-https://www.linkedin.com/in/brendan-ryan-devasagay-a-180788257/
 
