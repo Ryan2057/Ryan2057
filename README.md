@@ -12,7 +12,7 @@
   - Python (NumPy, Pandas, spaCy, RASA)
   - Java (including Swing)
   - JavaScript (React, Node)
-  - C, C++
+  - C
   - HTML, CSS, XML
 
 - **Containerization & Orchestration:**
